@@ -1,0 +1,11 @@
+body{
+    background-image: url("../static/hit\ background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.underline li a:hover{
+    text-decoration: underline;
+}
+
+
